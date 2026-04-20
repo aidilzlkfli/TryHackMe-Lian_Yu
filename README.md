@@ -20,11 +20,14 @@ The Lian_Yu room on TryHackMe is a Capture The Flag (CTF) challenge themed aroun
 
 Here's the complete Lian_Yu TryHackMe walkthrough with all steps in Markdown code format:
 
- Lian_Yu TryHackMe Walkthrough
+Here's the complete Lian_Yu TryHackMe walkthrough with all steps in Markdown code format:
+
+```markdown
+# Lian_Yu TryHackMe Walkthrough
 
 ---
 
- Step 1: Start Machine & VPN
+## Step 1: Start Machine & VPN
 
 1. Go to TryHackMe Lian_Yu room and click "Start Machine"
 2. Wait 2-3 minutes for the machine to boot
@@ -38,7 +41,7 @@ Here's the complete Lian_Yu TryHackMe walkthrough with all steps in Markdown cod
 
 ---
 
- Step 2: Nmap Scan
+## Step 2: Nmap Scan
 
 Run comprehensive Nmap scan to discover open ports and services:
 
